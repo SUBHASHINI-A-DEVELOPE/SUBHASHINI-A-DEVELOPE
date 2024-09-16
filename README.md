@@ -4,9 +4,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=740" />
 
+
+
 - 🔭 I’m currently working on **Talent acquisition Specialist**
 
 - 🌱 I’m currently learning **Gen AI & Data Science**
+
+- 👯 I’m looking to collaborate on [Gen AI Projects]
 
 - 📫 How to reach me **subashinikavi2018@gmail.com**
 
