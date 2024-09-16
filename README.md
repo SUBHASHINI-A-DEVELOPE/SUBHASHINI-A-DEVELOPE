@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Subhashini Anivarathan</h1>
 <h3 align="center">A passionate Python Developer in India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=740" />
+<img align="right" alt="Coding" width="250" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=740" />
 
 
 
